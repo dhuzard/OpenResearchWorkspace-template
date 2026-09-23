@@ -25,9 +25,6 @@ Add collaborators and research files
 Work normally
 ```
 
-> [!NOTE]
-> The GitHub template/setup workflow is currently being migrated from the ORW development repository into this dedicated template repository. This guide documents the intended researcher workflow. If the **Set up my research project** button or form is not yet present, the migration is not complete; do not try to reproduce the setup manually.
-
 ## Before you begin
 
 You need only:
@@ -101,7 +98,7 @@ On the main page of **your new repository**, click:
 
 **Set up my research project**
 
-If the direct button is unavailable but the setup workflow has already been migrated, you can alternatively open:
+If you do not see a direct setup link in the README, open:
 
 **Issues → New issue → Set up my research project**
 
@@ -311,11 +308,11 @@ You do not need to edit machine-readable metadata during ordinary day-to-day wor
 
 ### I cannot see **Use this template**
 
-Confirm that you are viewing `dhuzard/OpenResearchWorkspace-template`. If the repository has not yet been configured as a GitHub template, the migration is still incomplete.
+Confirm that you are viewing `dhuzard/OpenResearchWorkspace-template` and that the **Use this template** button appears near the top of the repository.
 
 ### I cannot see **Set up my research project**
 
-Confirm that you are looking at the repository you created from this template, not the ORW development repository. During the current repository split, the setup workflow may also still be awaiting migration.
+Confirm that you are looking at the repository you created from this template, not `dhuzard/OpenResearchWorkspace-template` itself and not the ORW development repository. Then open **Issues → New issue → Set up my research project**.
 
 ### The setup form was submitted but initialization failed
 
