@@ -2,7 +2,7 @@ template:
   adapter: github
   template_repository: "dhuzard/OpenResearchWorkspace-template"
   canonical_repository: "dhuzard/OpenResearchWorkspace"
-  canonical_revision: "a25db2ddbd41782cff6b24f81d8b0ebb11dbd64c"
+  canonical_revision: "1be5066d60e4d63fcfeaf7653f62766c6c477991"
   spec_version: "0.1"
   template_version: "0.1.0"
 
