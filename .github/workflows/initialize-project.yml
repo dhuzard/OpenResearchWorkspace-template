@@ -15,7 +15,7 @@ concurrency:
 env:
   # Immutable canonical ORW core revision used by this template snapshot.
   # When updating this pin, update the pinned .research placeholders too.
-  ORW_CORE_REVISION: "574598219d47df7f3bc02ba64a5821c87b49f210"
+  ORW_CORE_REVISION: "4153a0db77ba90194d8437b1cce7602b4b113c77"
 
 jobs:
   initialize:
