@@ -17,6 +17,14 @@ If you are a researcher who simply wants to create and use a project workspace, 
 
 The guide explains unfamiliar GitHub words when they first appear and shows what to click, what information to enter, what ORW creates for you, where to put your files, how to invite collaborators, and what not to upload to GitHub.
 
+
+### Beginner workflow
+
+1. Click **Use this template → Create a new repository**.
+2. In your new repository, open **Issues → New issue → Set up my research project**.
+3. Fill the short scientific setup form and submit it.
+4. ORW initializes the workspace automatically; no terminal or Git commands are required.
+
 ## Which repository do I need?
 
 | If you want to… | Use |
