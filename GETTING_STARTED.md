@@ -94,13 +94,11 @@ GitHub now creates a new project under **your** account or organization. The new
 
 Your new repository initially contains a generic ORW workspace. The setup form turns it into your actual research project.
 
-On the main page of **your new repository**, click:
-
-**Set up my research project**
-
-If you do not see a direct setup link in the README, open:
+In **your new repository**, open:
 
 **Issues → New issue → Set up my research project**
+
+Choose the form named **Set up my research project**.
 
 > GitHub calls this an **issue**, but you can treat it simply as a form. You do not need to understand GitHub issue tracking.
 
