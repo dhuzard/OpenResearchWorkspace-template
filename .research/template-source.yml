@@ -2,10 +2,10 @@ template:
   adapter: github
   template_repository: "dhuzard/OpenResearchWorkspace-template"
   canonical_repository: "dhuzard/OpenResearchWorkspace"
-  canonical_revision: "f1b35dea40b3ec0397104550805b41f62bfaf858"
+  canonical_revision: "a25db2ddbd41782cff6b24f81d8b0ebb11dbd64c"
   spec_version: "0.1"
   template_version: "0.1.0"
 
 notes:
-  - "Canonical ORW scientific rules and generation logic live in the canonical repository."
+  - "Generated from the canonical ORW repository; do not maintain scientific rules here."
   - "This file records the immutable core revision used by this template snapshot."
