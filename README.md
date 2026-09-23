@@ -6,6 +6,17 @@
 > **This repository is the GitHub template distribution, not the ORW software-development repository.**
 > The canonical ORW specification, schemas, CLI, browser generator, validation logic, FAIR/RO-Crate tooling, tests, and development documentation live in [`dhuzard/OpenResearchWorkspace`](https://github.com/dhuzard/OpenResearchWorkspace).
 
+
+## Start here — no coding required
+
+**You do not need to know Git, write code, use a terminal, edit YAML, understand branches, or open GitHub Actions.**
+
+If you are a researcher who simply wants to create and use a project workspace, follow the click-by-click guide:
+
+### [→ Create my first ORW project: beginner step-by-step guide](GETTING_STARTED.md)
+
+The guide explains unfamiliar GitHub words when they first appear and shows what to click, what information to enter, what ORW creates for you, where to put your files, how to invite collaborators, and what not to upload to GitHub.
+
 ## Which repository do I need?
 
 | If you want to… | Use |
