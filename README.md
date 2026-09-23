@@ -66,7 +66,7 @@ Those belong in [`OpenResearchWorkspace`](https://github.com/dhuzard/OpenResearc
 
 ## What should live here
 
-The final template should remain intentionally small and researcher-facing, approximately:
+After initialization, a researcher workspace remains intentionally small and researcher-facing, approximately:
 
 ```text
 my-research-project/
@@ -90,6 +90,6 @@ It should **not** contain ORW development internals such as `src/`, the browser 
 
 ## Status
 
-This repository has just been separated from the main ORW development repository. The minimal template scaffold and GitHub initialization workflow still need to be migrated here and connected to the canonical ORW generation/validation contract.
+The minimal GitHub setup adapter is now present here. It installs an immutable, pinned revision of the canonical ORW core during initialization, then uses that core to generate the researcher’s ISA-aligned workspace. Scientific generation logic is therefore not duplicated in this repository.
 
 For the current ORW implementation and documentation, see [`dhuzard/OpenResearchWorkspace`](https://github.com/dhuzard/OpenResearchWorkspace).
