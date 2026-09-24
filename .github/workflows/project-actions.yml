@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  ORW_CORE_REVISION: "4aeecc31058d3ed15a06e5ed476dff77e02b9501"
+  ORW_CORE_REVISION: "f93602247b58e0e3710a80c40dcbc5f5f741415e"
 
 jobs:
   project-action:
